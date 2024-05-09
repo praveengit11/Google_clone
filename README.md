@@ -2,3 +2,5 @@ Being a web dev aspirant, I have gained hands-on experience on frontend developm
 Then I decided to challenge myself to do a google clone which is a minimal good looking page.
 Anyhow I managed to do this in 4 hours.
 Being a newbie, accomplishing this motivated me to learn more and more in the frontend development.
+
+You can check out my google clone at https://praveengit11.github.io/google_clone/
